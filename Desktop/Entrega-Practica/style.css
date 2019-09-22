@@ -1,0 +1,11 @@
+
+  .thumbnail {
+    position: relative;
+   }
+   .caption {
+    position: absolute;
+    top: 44%;
+    left: 38px;
+    width: 206%;
+    color: white;
+   }
